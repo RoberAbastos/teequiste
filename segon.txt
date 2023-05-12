@@ -1,0 +1,2 @@
+Aquest és el segon arxiu. Llistat de hardware informàtic :
+- Hub (en la creació de l'arxiu al núvol)
